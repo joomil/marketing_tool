@@ -1,0 +1,21 @@
+marketing_tool/
+├── README.md
+├── LICENSE
+├── setup.py
+├── requirements.txt
+├── .gitignore
+├── data/
+│   └── sample_data.csv
+├── docs/
+│   └── usage.md
+├── src/
+│   ├── __init__.py
+│   ├── scraper.py
+│   ├── sentiment_analysis.py
+│   └── data_analysis.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_scraper.py
+│   ├── test_sentiment_analysis.py
+│   └── test_data_analysis.py
+└── venv/
